@@ -25,9 +25,7 @@
 </div>
 
 <div align="center">
-  <br>
-  <p align="center"><b>Visitors count</b></p>  
-  <img align="center" src="https://profile-counter.glitch.me/{Douglascrc}/count.svg"> 
-  <br>
+  <p><b>Visitors count</p>  
+  <img src="https://profile-counter.glitch.me/{Douglascrc}/count.svg"> 
 </div>
   
