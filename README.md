@@ -25,8 +25,6 @@
 </div>
 
 <div align="center">
-  <p>Visitors count</p>  
-  <img src="https://profile-counter.glitch.me/{Douglascrc}/count.svg"> <br/>
-  <img src="https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FDouglascrc&leftColor=3633e6&rightColor=000000&type=daily&label=Daily-Viewers&style=upper"
+  <img src="https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FDouglascrc&leftColor=3633e6&rightColor=000000&type=daily&label=Daily-Viewers&style=upper">
 </div>
   
