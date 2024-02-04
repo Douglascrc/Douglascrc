@@ -24,7 +24,4 @@
 <a href="https://www.discord.com/in/douglascamposcr/" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>  
 </div>
 
-<div align="center">
-  <img src="https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FDouglascrc&leftColor=3633e6&rightColor=000000&type=daily&label=Daily-Viewers&style=upper">
-</div>
   
