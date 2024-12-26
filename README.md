@@ -3,7 +3,6 @@
 ![](https://github.com/bush1D3v/bush1D3v/assets/133554156/18851c7f-7783-491a-be37-407c2cb537d4)
 ## About Me
 - 🌱 I'm a passionate developer who loves to learn and build cool stuff.
-- 💼 I'm currently working at Rede D'or.
 - 📚 I'm constantly learning and improving my skills in JavaScript, TypeScript, HTML, CSS, and Java.
 
 
