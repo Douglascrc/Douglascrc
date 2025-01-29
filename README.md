@@ -7,7 +7,13 @@
 
 
 ## Main Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,java,spring,aws,azure,docker,git,linux&theme=light)](https://skillicons.dev)
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,java,spring,aws,azure,docker,git"/>
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" />
+  </a>
+</p>
+
 
 ## Connect with me!
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/douglasbuscampos/)
