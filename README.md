@@ -11,7 +11,7 @@
 
 ## Connect with me!
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/douglasbuscampos/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/in/douglascamposcr/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/channels/douglascamposcr/)
 
 ### 
 
