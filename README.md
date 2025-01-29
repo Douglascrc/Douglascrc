@@ -6,9 +6,8 @@
 - 📚 I'm constantly learning and improving my skills in JavaScript, TypeScript, HTML, CSS, and Java.
 
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglascrc&layout=compact&langs_count=16&theme=radical"/>
-</div>
+## Main Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,java,spring,aws,azure&theme=dark)](https://skillicons.dev)
 
 
 ## Connect with me!
