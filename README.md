@@ -7,14 +7,11 @@
 
 
 ## Main Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,java,spring,aws,azure&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,java,spring,aws,azure,docker,git,linux&theme=light)](https://skillicons.dev)
 
 ## Connect with me!
-<div>  
-<a href="https://www.linkedin.com/in/douglasbuscampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-<a href="https://www.discord.com/in/douglascamposcr/" target="_blank"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>  
-</div>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/douglasbuscampos/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/in/douglascamposcr/)
 
 ### 
 
