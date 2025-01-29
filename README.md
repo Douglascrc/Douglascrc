@@ -8,10 +8,16 @@
 
 ## Main Technologies
 <p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,java,spring,aws,azure,docker,git"/>
-    <img src="https://skillicons.dev/icons?i=linux&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" />
 </p>
 
 
